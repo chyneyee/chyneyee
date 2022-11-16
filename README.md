@@ -11,6 +11,12 @@ chyneyee/chyneyee is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chyneyee&langs_count=10&theme=tokyonight)]()
 
-<!---[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chyneyee)](https://github.com/chyneyee/github-readme-stats)--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyneyee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!---[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chyneyee)](https://github.com/chyneyee/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chyneyee&langs_count=10&theme=tokyonight)]()
+--->
